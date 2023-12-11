@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 93.98 % as on ⏰ 9-Dec-2023
+⏳ **Year Progress** { ████████████████████████████▁▁ } 94.25 % as on ⏰ 10-Dec-2023
 
 ---
 
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
